@@ -6,4 +6,4 @@
 
 
 #### 许可证
-JinBooks 遵循 Apache License, Version 2.0 开源免费
+遵循 Apache License, Version 2.0 开源免费
